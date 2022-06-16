@@ -1,0 +1,11 @@
+/*
+  Localizable.strings
+
+  Created by Nicolae Rogojan on 19.10.2021.
+*/
+
+// MARK: - Alert
+
+"shared_error_cancel_action"                              = "Cancel";
+"shared_error_title"                                      = "Loading error";
+"shared_error_message"                                    = "Oops, something went wrong.\nPlease try again later.";
